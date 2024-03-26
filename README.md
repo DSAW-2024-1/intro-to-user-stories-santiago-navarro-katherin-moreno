@@ -6,3 +6,8 @@
 
 
 **Link de Trello con las historias de usuario:**
+https://trello.com/invite/b/DvLkz9uw/ATTI580432b38a51cd9059b435e0b0a52b7c5274E67F/historias-de-usuarios
+
+##INTEGRANTES## 
+- Santiago Navarro 305992
+- Katherin Moreno 304302
